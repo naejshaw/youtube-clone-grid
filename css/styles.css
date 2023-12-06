@@ -28,6 +28,10 @@ header{
     align-items: center;
 }
 
+header img{
+    cursor: pointer;
+}
+
 #menu-area{
     justify-self: flex-start;
 }
